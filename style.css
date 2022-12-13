@@ -3,11 +3,13 @@ body {
 }
  p, label {
 	color: #ffffff;
-	font-size: 16px;	
+	font-size: 16px;
+	font-family: 'PT Sans';	
 }
 h3 {
 	font-size: 32px;
 	color: #f5f5f5;
+	font-family: 'PT Sans';
 }
 
 .container {
